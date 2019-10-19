@@ -1,0 +1,16 @@
+html, body{
+margin: 0 auto;
+
+}
+
+#container{
+background: -webkit-linear-gradient(top, black, yellow, blue, green, red , black); 
+    background: -o-linear-gradient(top, black, yellow, blue, green, red , black); 
+    background: -moz-linear-gradient(top, black, yellow, blue, green, red , black); 
+    background: linear-gradient(to top, black, white, black); 
+
+}
+
+
+
+​
